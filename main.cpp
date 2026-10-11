@@ -6,7 +6,7 @@
  */
 
 #include <QApplication>
-#include "mainwindow.h"
+#include "csansvoyelle.h"
 
 int main(int argc, char *argv[])
 {

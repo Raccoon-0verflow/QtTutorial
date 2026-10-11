@@ -1,0 +1,7 @@
+# fichiers de compil (pas a versionner)
+build/
+build-*/
+*.pro.user
+*.user
+*.o
+Makefile*
